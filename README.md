@@ -48,4 +48,4 @@ If this policy changes, we will update the "Last updated" date above and include
 
 ## Contact
 
-Questions about this policy: **gympulse.suppor@gmail.com**
+Questions about this policy: **gympulse.support@gmail.com**
