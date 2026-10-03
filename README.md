@@ -39,7 +39,7 @@ If you enable the rest-timer notification, the app schedules local notifications
 
 ## Children's privacy
 
-The app does not knowingly collect any personal information from anyone, including children.
+GymPulse is intended for users aged 13 and over. The app does not knowingly collect personal information from users, including users under 18. Workout data and preferences are stored locally on the user's device and are not transmitted to us or to any third party.
 
 ## Data retention and deletion
 
